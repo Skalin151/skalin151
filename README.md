@@ -23,25 +23,25 @@
 <table>
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=N9eIb2vNFao">
-        <img src="https://img.youtube.com/vi/N9eIb2vNFao/0.jpg" width="250" />
+      <a href="https://youtu.be/N9eIb2vNFao">
+        <img src="https://youtube-stats-card.vercel.app/api/video?videoid=N9eIb2vNFao&layout=default&theme=dark_pink" width="300" />
       </a>
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=2rv2Q-Mt_uA">
-        <img src="https://img.youtube.com/vi/2rv2Q-Mt_uA/0.jpg" width="250" />
+      <a href="https://youtu.be/2rv2Q-Mt_uA">
+        <img src="https://youtube-stats-card.vercel.app/api/video?videoid=2rv2Q-Mt_uA&layout=default&theme=dark_pink" width="300" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=ewbENBWNNCM">
-        <img src="https://img.youtube.com/vi/ewbENBWNNCM/0.jpg" width="250" />
+      <a href="https://youtu.be/ewbENBWNNCM">
+        <img src="https://youtube-stats-card.vercel.app/api/video?videoid=ewbENBWNNCM&layout=default&theme=dark_pink" width="300" />
       </a>
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=GavvkqJGNd4">
-        <img src="https://img.youtube.com/vi/GavvkqJGNd4/0.jpg" width="250" />
+      <a href="https://youtu.be/GavvkqJGNd4">
+        <img src="https://youtube-stats-card.vercel.app/api/video?videoid=GavvkqJGNd4&layout=default&theme=dark_pink" width="300" />
       </a>
     </td>
   </tr>
