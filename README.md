@@ -20,6 +20,7 @@
 </p>
 
 ---
+
 <h3 align="left">Videos I made:</h3>
 <table>
   <tr>
@@ -47,6 +48,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
