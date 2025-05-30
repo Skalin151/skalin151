@@ -20,6 +20,7 @@
 </p>
 
 ---
+<h3 align="left">Videos I made:</h3>
 <table>
   <tr>
     <td>
