@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [here](https://skalin151.github.io)
 
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
