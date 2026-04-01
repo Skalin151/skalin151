@@ -55,12 +55,6 @@
   <img src="https://skillicons.dev/icons?i=androidstudio,arduino,aws,azure,bash,bootstrap,c,cpp,clion,html,css,js,dart,discord,docker,figma,flutter,git,github,linux,md,mysql,nodejs,obsidian,postman,py,raspberrypi,unity,vscode,windows" />
 </p>
 
----
-
-![Skalin151's Stats](https://github-readme-stats.vercel.app/api?username=Skalin151&theme=dark&show_icons=true&hide_border=true&count_private=true)<br>
-![Skalin151's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Skalin151&theme=dark&show_icons=true&hide_border=true&layout=compact) 
-
-
 
 
 
